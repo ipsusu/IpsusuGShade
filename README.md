@@ -1,6 +1,3 @@
-# IpsusuGShade
-Personal repo for my GShade presets.
-
 <p align="center">
   <h1 align="center">IpsusuGShade</h1>
   <p align="center">Personal repo for my GShade presets.</p>
