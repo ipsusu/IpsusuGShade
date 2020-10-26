@@ -14,4 +14,6 @@ This is not recommended, but it's possible. Currently, the LUT version of Ipsusu
 - Add "lut_IpsusuGameplay.png" to your "\gshade-shaders\Textures" folder.
 - Add "IpsusuGameplay.ini" in your "\gshade-presets\Custom" folder.
 
+To use the Warm and Pastel versions, just rename these to lut_IpsusuGameplay.png. You can only use one at a time.
+
 Be sure to backup the current LUT.fx file, however I have provided a backup in the "lutbackup" folder of this repo if you break something. 
