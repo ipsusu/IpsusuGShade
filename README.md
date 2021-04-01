@@ -6,14 +6,8 @@
   </p>
 </p>
 
-This preset will be included in the next release of GShade.
-
-## Custom install of IpsusuGameplay.ini
-This is not recommended, but it's possible. Currently, the LUT version of IpsusuGameplay requires you to: 
-- Overwrite the LUT.fx in the "\gshade-shaders\Shaders" folder with the one provided in this repo. Be sure to save it as a .fx file if downloading directly, as it will default to a .fx.txt file, which will not work.
-- Add "lut_IpsusuGameplay.png" to your "\gshade-shaders\Textures" folder.
-- Add "IpsusuGameplay.ini" in your "\gshade-presets\Custom" folder.
-
-To use the Warm and Pastel versions, just rename these to lut_IpsusuGameplay.png. You can only use one at a time.
-
-Be sure to backup the current LUT.fx file, however I have provided a backup in the "lutbackup" folder of this repo if you break something. 
+## Custom install of Ipsusu Presets
+If you would like to use my presets before the next official release of GShade, you can manually update them here. Do this at your own risk and back up the files you overwrite. 
+- Overwrite the MultiLUT.fx in the "\gshade-shaders\Shaders" folder with the one provided in this repo. Be sure to save it as a .fx file if downloading directly, as it will default to a .fx.txt file, which will not work.
+- Add "MultiLut_Ipsusu.png" to your "\gshade-shaders\Textures" folder. Overwrite any existing versions.
+- Add all ".ini" files included in the root of this repo to your your "\gshade-presets\Ipsusu" folder, or "\gshade-presets\Custom\".
