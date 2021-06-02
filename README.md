@@ -10,3 +10,4 @@
 If you would like to use my presets before the next official release of GShade, you can manually update them here. Do this at your own risk and back up the files you overwrite. 
 - Add "MultiLut_Ipsusu.png" to your "\gshade-shaders\Textures" folder. Overwrite any existing versions.
 - Add all ".ini" files included in the root of this repo to your your "\gshade-presets\Ipsusu" folder, or "\gshade-presets\Custom\".
+  - You can download all ".ini" files by downloading this zip file: https://github.com/ipsusu/IpsusuGShade/blob/master/IpsusuGShade-inis.zip
