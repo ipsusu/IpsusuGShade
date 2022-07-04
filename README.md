@@ -18,7 +18,10 @@ Click the two dots at the top (the "..") to go back to the main folder if you wo
 ## Update to a preview install of Ipsusu Presets
 If you would like to use the newest version of my presets before the next official release of GShade, you can manually update them here. Do this at your own risk and back up the files you overwrite. 
 
-- Add all ".ini" files included in <a href="https://github.com/ipsusu/IpsusuGShade/tree/master/preview%20release">this folder</a> to your  "\gshade-presets\Ipsusu" folder, or "\gshade-presets\Custom\".
+You can download all the files you need for the steps below by downloading this zip file: <a href="https://github.com/ipsusu/IpsusuGShade/blob/master/preview%20release/finalpreviewrelease.zip">finalpreviewrelease.zip</a>
+
+ 
+- Add all ".ini" files (included in <a href="https://github.com/ipsusu/IpsusuGShade/tree/master/preview%20release">this folder</a>) to your "\gshade-presets\Ipsusu" folder, or "\gshade-presets\Custom\".
 - Add "MultiLut_Ipsusu.png" to your "\gshade-shaders\Textures" folder. Overwrite any existing versions.
 - Add the updated shaders to your "\gshade-shaders\Shaders" folder (if required by the update). Overwrite any existing versions.
-  - You can download all the files you need by downloading this zip file: <a href="https://github.com/ipsusu/IpsusuGShade/blob/master/preview%20release/finalpreviewrelease.zip">finalpreviewrelease.zip</a>
+  
