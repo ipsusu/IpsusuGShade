@@ -16,7 +16,7 @@ Click the two dots at the top (the "..") to go back to the main folder if you wo
 
 
 ## Update to a preview install of Ipsusu Presets
-If you would like to use the newest version of my presets before the next official release of GShade, you can manually update them here. Do this at your own risk and back up the files you overwrite. 
+If you would like to use the newest version of my presets before the next official release of GShade, you can manually update them here.
 
 You can download all the files you need for the steps below by downloading this zip file: <a href="https://github.com/ipsusu/IpsusuGShade/blob/master/preview%20release/finalpreviewrelease.zip">finalpreviewrelease.zip</a>
 
