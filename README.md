@@ -3,7 +3,7 @@
   <p align="center">Personal repo for my GShade presets.</p>
   <p align="center"> Find the public repo <a href="https://github.com/Mortalitas/GShade-Presets/tree/master/FFXIV" target="_blank">here</a>.</p>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/ipsusu/IpsusuGShade/master/example/compare.jpg">
+    <img src="https://raw.githubusercontent.com/ipsusu/IpsusuGShade/master/preview.jpg">
   </p>
 </p>
 
