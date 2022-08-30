@@ -24,4 +24,13 @@ You can download all the files you need for the steps below by downloading this 
 - Add all ".ini" files (included in <a href="https://github.com/ipsusu/IpsusuGShade/tree/master/preview%20release">this folder</a>) to your "\gshade-presets\Ipsusu" folder, or "\gshade-presets\Custom\".
 - Add "MultiLut_Ipsusu.png" to your "\gshade-shaders\Textures" folder. Overwrite any existing versions.
 - Add the updated shaders to your "\gshade-shaders\Shaders" folder (if required by the update). Overwrite any existing versions.
+
+## Donate
+
+You can donate or tip me some lunch money here:
+
+<a href='https://ko-fi.com/ipsusu' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
   
+## Contact
+
+You can contact me easiest on my <a href='https://twitter.com/ipsusu'>Twitter</a>. Just send me a DM.
