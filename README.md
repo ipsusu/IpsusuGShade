@@ -16,6 +16,13 @@ Click the two dots at the top (the "..") to go back to the main folder if you wo
 
 
 ## Update to a preview install of Ipsusu Presets
+
+<hr>
+
+<b>As of 2022-09-22, the default GShade install includes my most up-to-date presets. You can download the latest version of GShade <a href="https://github.com/Mortalitas/GShade/releases/latest/download/GShade.Latest.Installer.exe">here</a>.</b>
+
+<hr>
+<strike>
 If you would like to use the newest version of my presets before the next official release of GShade, you can manually update them here.
 
 You can download all the files you need for the steps below by downloading this zip file: <a href="https://github.com/ipsusu/IpsusuGShade/blob/master/preview%20release/finalpreviewrelease.zip" target="_blank">finalpreviewrelease.zip</a>
@@ -24,6 +31,7 @@ You can download all the files you need for the steps below by downloading this 
 - Add all ".ini" files (included in <a href="https://github.com/ipsusu/IpsusuGShade/tree/master/preview%20release">this folder</a>) to your "\gshade-presets\Ipsusu" folder, or "\gshade-presets\Custom\".
 - Add "MultiLut_Ipsusu.png" to your "\gshade-shaders\Textures" folder. Overwrite any existing versions.
 - Add the updated shaders to your "\gshade-shaders\Shaders" folder (if required by the update). Overwrite any existing versions.
+</strike>
 
 ## Donate
 
