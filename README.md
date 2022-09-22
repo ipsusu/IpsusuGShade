@@ -19,7 +19,7 @@ Click the two dots at the top (the "..") to go back to the main folder if you wo
 
 <hr>
 
-<b>As of 2022-09-22, the default GShade install includes my most up-to-date presets. You can download the latest version of GShade <a href="https://github.com/Mortalitas/GShade/releases/latest/download/GShade.Latest.Installer.exe">here</a>.</b>
+<b>As of 2022-09-20, the default GShade install includes my most up-to-date presets. You can download the latest version of GShade <a href="https://github.com/Mortalitas/GShade/releases/latest/download/GShade.Latest.Installer.exe">here</a>.</b>
 
 <hr>
 <strike>
