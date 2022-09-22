@@ -9,7 +9,7 @@
 
 ## How do I use the Ipsusu Presets?
 
-The Ipsusu GShade presets are included by default with your GShade install. You can download the latest version of GShade <a href="https://github.com/Mortalitas/GShade/releases/latest/download/GShade.Latest.Installer.exe">here</a>.
+The Ipsusu GShade presets are included by default with your GShade install. You can download the latest version of GShade <a href="https://github.com/Mortalitas/GShade/releases">here</a>.
 
 You can find them in the <b>gshade-presets\Ipsusu\ </b> folder (just scroll down a bit and click the "Ipsusu" folder). Click any of the .ini presets to enable them.
 Click the two dots at the top (the "..") to go back to the main folder if you would like to swap to another creator's preset.
@@ -19,7 +19,7 @@ Click the two dots at the top (the "..") to go back to the main folder if you wo
 
 <hr>
 
-<b>As of 2022-09-20, the default GShade install includes my most up-to-date presets. You can download the latest version of GShade <a href="https://github.com/Mortalitas/GShade/releases/latest/download/GShade.Latest.Installer.exe">here</a>.</b>
+<b>As of 2022-09-20, the default GShade install includes my most up-to-date presets. You can download the latest version of GShade <a href="https://github.com/Mortalitas/GShade/releases">here</a>.</b>
 
 <hr>
 <strike>
