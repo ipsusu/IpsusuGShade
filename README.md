@@ -1,11 +1,18 @@
 <h1 align="center">DISCLAIMER</h1>
 <h1 align="center"> This repo is now here for archival purposes.</h1> 
-<h1 align="center"> If you would like to use my current presets in all versions of ReShade, please see the <a href="https://github.com/ipsusu/IpsuShade">IpsuShade<a> repo!</h1>
+<h1 align="center"> If you would like to use my current presets in all versions of ReShade/GShade, please see the <a href="https://github.com/ipsusu/IpsuShade">IpsuShade<a> repo!</h1>
 
 <hr>
-
 <hr>
-
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
 <hr>
 <strike>
 <p align="center">
