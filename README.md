@@ -3,16 +3,15 @@
 <h1 align="center"> If you would like to use my current presets in all versions of ReShade/GShade, please see the <a href="https://github.com/ipsusu/IpsuShade">IpsuShade<a> repo!</h1>
 
 <hr>
+<h1 align="center"><a href="https://github.com/ipsusu/IpsuShade">Go to IpsuShade<a>!</h1>
 <hr>
+<h1 align="center"><a href="https://github.com/ipsusu/IpsuShade">Go to IpsuShade<a>!</h1>
 <hr>
+<h1 align="center"><a href="https://github.com/ipsusu/IpsuShade">Go to IpsuShade<a>!</h1>
 <hr>
+<h1 align="center"><a href="https://github.com/ipsusu/IpsuShade">Go to IpsuShade<a>!</h1>
 <hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+<h1 align="center"><a href="https://github.com/ipsusu/IpsuShade">Go to IpsuShade<a>!</h1>
 <hr>
 <strike>
 <p align="center">
